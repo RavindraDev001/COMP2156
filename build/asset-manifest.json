@@ -1,13 +1,16 @@
 {
-  "main.css": "/RavindraDev001/COMP2156/static/css/main.f67481a5.chunk.css",
-  "main.js": "/RavindraDev001/COMP2156/static/js/main.b3a3b566.chunk.js",
-  "main.js.map": "/RavindraDev001/COMP2156/static/js/main.b3a3b566.chunk.js.map",
-  "runtime~main.js": "/RavindraDev001/COMP2156/static/js/runtime~main.f30cf3fb.js",
-  "runtime~main.js.map": "/RavindraDev001/COMP2156/static/js/runtime~main.f30cf3fb.js.map",
-  "static/js/2.64d6decb.chunk.js": "/RavindraDev001/COMP2156/static/js/2.64d6decb.chunk.js",
-  "static/js/2.64d6decb.chunk.js.map": "/RavindraDev001/COMP2156/static/js/2.64d6decb.chunk.js.map",
-  "index.html": "/RavindraDev001/COMP2156/index.html",
-  "precache-manifest.a47ee974b3580675ed79c7f4df67995b.js": "/RavindraDev001/COMP2156/precache-manifest.a47ee974b3580675ed79c7f4df67995b.js",
-  "service-worker.js": "/RavindraDev001/COMP2156/service-worker.js",
-  "static/css/main.f67481a5.chunk.css.map": "/RavindraDev001/COMP2156/static/css/main.f67481a5.chunk.css.map"
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.16ff7719.js",
+    "static/js/787.f5f7e46a.chunk.js": "/static/js/787.f5f7e46a.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.16ff7719.js.map": "/static/js/main.16ff7719.js.map",
+    "787.f5f7e46a.chunk.js.map": "/static/js/787.f5f7e46a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.16ff7719.js"
+  ]
 }
